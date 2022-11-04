@@ -1,0 +1,9 @@
+body {
+    overflow: hidden;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    background-image: url('../assets/360_F_501633978_6oxWrcNudFcyCMbvJtRi9v1fo4mfI0KZ.jpg');
+    background-size: 100%;
+}
